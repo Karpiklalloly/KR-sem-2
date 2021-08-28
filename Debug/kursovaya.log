@@ -1,0 +1,7 @@
+﻿  kursovaya.cpp
+C:\Users\artem\source\repos\kursovaya\windows\AuthorWindow.h(91,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\source\repos\kursovaya\windows\AuthorWindow.h(92,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\source\repos\kursovaya\windows\AuthorWindow.h(93,73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\source\repos\kursovaya\windows\AuthorWindow.h(94,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\source\repos\kursovaya\kursovaya.cpp(218,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kursovaya.vcxproj -> C:\Users\artem\source\repos\kursovaya\Debug\kursovaya.exe
